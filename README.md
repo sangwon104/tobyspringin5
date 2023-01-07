@@ -12,4 +12,6 @@
 * commit rule
   * feat : 신기능 개발
   * docs : 문서 작성
+  * config : 설정 관련 작업
   * chore : log, comment 등
+
